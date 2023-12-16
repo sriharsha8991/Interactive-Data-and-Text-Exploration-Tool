@@ -32,7 +32,7 @@ Running this application is as easy as pie:
 
 ## 🌐 Check It Out Live!
 
-Curious to see the app in action? Visit [Our Live Application](#your-deployment-link) and start exploring!
+Curious to see the app in action? Visit [Our Live Application](https://interactive-data-and-text-exploration-tool-da3h7zucrn94pdanjcx.streamlit.app/) and start exploring!
 
 ## 🛠️ Built With
 
@@ -45,6 +45,4 @@ Curious to see the app in action? Visit [Our Live Application](#your-deployment-
 
 Got ideas to make this even better? We're all ears! Fork the repository, add your magic, and let's make data analysis even more awesome together.
 
-## 📜 License
 
-This project is proudly licensed under the [MIT License](https://opensource.org/licenses/MIT).
