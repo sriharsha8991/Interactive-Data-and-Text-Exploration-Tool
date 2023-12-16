@@ -3,4 +3,4 @@ pandas
 seaborn
 matplotlib
 wordcloud
-textblob
+numpy
